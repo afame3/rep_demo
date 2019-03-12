@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/error_prone_annotations-2.0.18.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-api-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-chrome-driver-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-edge-driver-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-firefox-driver-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-ie-driver-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-java-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-opera-driver-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-remote-driver-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-safari-driver-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/libs/selenium-support-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/selenium-java/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
